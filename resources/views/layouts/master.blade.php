@@ -1,5 +1,4 @@
 @include('layouts.header')
-@include('layouts.navbar')
     <div id="preloader">
         <div class="jumper">
             <div></div>
